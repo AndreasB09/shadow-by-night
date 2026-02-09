@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #1e1e1e;
+    color: #f1f1f1;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+a.npc-link {
+    color: #8b0000;
+    text-decoration: none;
+    border-bottom: 1px solid #8b0000;
+}
+
+a.npc-link:hover {
+    color: #ff0000;
+}
