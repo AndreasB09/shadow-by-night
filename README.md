@@ -14,3 +14,16 @@ The React Compiler is not enabled on this template because of its impact on dev 
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+
+
+Malkavian-related quotes:
+
+"If the most socially functional figure in the city is a Malkavian, then the city is already doomed. But you didn't listen when we told you"
+
+“The Primogen remembers everything.
+He simply no longer believes it matters.”
+
+"He already knows what's to come. He simply waits for it"
+
+The Elysium is not 'come be seen', it's 'the city needs witness. THe Elysium is not where you come to celebrate, it's where youre summoned when the city has an announcement. The Harpy doesn't host the party, he rings the bell.

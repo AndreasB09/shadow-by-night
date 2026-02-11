@@ -23,3 +23,21 @@ a.npc-link {
 a.npc-link:hover {
     color: #ff0000;
 }
+
+/* Banner */
+.banner-container {
+    position: relative;
+    /* overflow: hidden; */
+    height: 300px;
+}
+.banner {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 300px;
+    background: linear-gradient(#143efb 0%, #18edd0 100%);
+    background-size: cover;
+    background-position: center;
+    z-index: 0;
+}
