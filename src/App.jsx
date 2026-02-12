@@ -3,6 +3,7 @@ import HomePage from "./pages/Home/HomePage";
 import ClanPage from "./pages/Clan/ClanPage";
 import Navbar from "./components/Navbar/Navbar";
 import ScrollToTop from "./components/ScrollToTop";
+import Footer from "./components/Footer/Footer";
 // import { useEffect } from "react";
 // import { useLocation } from "react-router-dom";
 
@@ -22,6 +23,7 @@ function App() {
           <Route path="/" element={<HomePage />} />
           <Route path="/clan" element={<ClanPage />} />
         </Routes>
+        <Footer />
       </div>
     </Router>
   );
