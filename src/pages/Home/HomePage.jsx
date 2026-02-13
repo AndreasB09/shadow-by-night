@@ -43,6 +43,7 @@ function HomePage() {
             Check out this character
           </a>
         </p>
+        <p className="quote">"This is an italic quote"</p>
       </div>
     );
 }

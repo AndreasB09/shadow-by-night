@@ -15,3 +15,7 @@
 .intro p {
     margin-bottom: 1.25rem;
 }
+
+.quote {
+    font-style: italic;
+}
