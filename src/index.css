@@ -35,8 +35,10 @@ a.npc-link:hover {
     left: 0;
     width: 100%;
     height: 300px;
-    background: linear-gradient(#143efb 0%, #18edd0 100%);
-    background-size: cover;
-    background-position: center;
     z-index: 0;
+}
+.banner img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
 }

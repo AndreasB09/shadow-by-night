@@ -4,8 +4,7 @@ import ClanPage from "./pages/Clan/ClanPage";
 import Navbar from "./components/Navbar/Navbar";
 import ScrollToTop from "./components/ScrollToTop";
 import Footer from "./components/Footer/Footer";
-// import { useEffect } from "react";
-// import { useLocation } from "react-router-dom";
+import CityBlue from "./assets/images/city_blue.jpg";
 
 
 function App() {
@@ -14,7 +13,7 @@ function App() {
     <Router>
       <ScrollToTop />
       <div className="banner-container">
-        <div className="banner"></div>
+        <div className="banner"><img src={CityBlue} alt="City skyline at night" /></div>
       </div>
       <Navbar />
 

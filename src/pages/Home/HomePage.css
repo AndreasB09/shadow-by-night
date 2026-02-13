@@ -1,6 +1,17 @@
-.placeholder-img {
-    width: 100%;
-    height: 225px;
-    background-color: rgb(255, 255, 255);
-    margin-bottom: 600px;
+.homepage {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2rem 1.5rem;
+}
+
+.homepage-header {
+    margin: 3rem 0;
+}
+
+.intro {
+    line-height: 1.7;
+}
+
+.intro p {
+    margin-bottom: 1.25rem;
 }
