@@ -5,7 +5,7 @@ import NpcCard from '../../components/NpcCard/NpcCard';
 function ClanPage() {
     return (
       <Layout>
-        <h1>Clan Name</h1>
+        <h1>Toreador</h1>
         <p className="clan-description">Description text here..</p>
 
         <div className="npc-list">
