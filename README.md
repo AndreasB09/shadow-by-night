@@ -1,19 +1,3 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
 
 
 
@@ -38,3 +22,18 @@ The symbol remains. And that is the problem.
 The Regent speaks in place of the crown and calls it continuity. Others call it stability and continue their quiet consolidations. Some have already adapted. They remember past upheavals and know how to thrive when institutions rot. Beyond the court, the Movement gathers the restless, and the Thin-Blooded slip through the cracks.
 
 Endless debate has replaced action. Everyone agrees the city endures. No one agrees it survives. And the longer nothing changes, the greater the spark when it does.
+
+---
+Toreador
+
+In the city, the Toreador do not chase beauty. They perserve it. 
+
+They understand that art is not decoration, it's narrative. It is memory arranged into meaning. It is power made visible. 
+
+For decades(centuries?), the Toreador shaped the cultural heartbeat of the Domain. Galleries flourished. Patronage networks spread through institutions, universities, architecture, philantropy. Influence was never crude, it was curated.
+
+Then the Prince stopped speaking. 
+
+Some would call it a tragedy. Others call it paralysis. The Toreador call it transformation. The throne was not abandoned, it was reframed. Now power stands on display. Perfect. Untouched. Eternal.
+
+The Toreador insist this is continuity. That reverance is stability. That preservation is wisdom. Critics whisper that it's stagnation dressed in velvet. But the clan remains united in one belief; If something is beautiful enough, no one will dare destroy it. 
